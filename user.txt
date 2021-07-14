@@ -1,0 +1,4 @@
+user
+entity normal_user 48
+entity joint_user 68
+entity admin 44
